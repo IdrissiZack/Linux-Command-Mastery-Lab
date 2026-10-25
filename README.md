@@ -37,3 +37,14 @@ Practice only on systems and files you own or are authorized to use.
 ## Status
 
 This project is under active development. More lessons and challenges will be added over time.
+ 
+
+## Learning Roadmap
+
+- [x] Module 01: Filesystem Navigation
+- [ ] Module 02: Files and Directories
+- [ ] Module 03: Reading and Searching Files
+- [ ] Module 04: Permissions and Ownership
+- [ ] Module 05: Processes and System Monitoring
+- [ ] Module 06: Networking Fundamentals
+- [ ] Module 07: Bash Scripting Basics
